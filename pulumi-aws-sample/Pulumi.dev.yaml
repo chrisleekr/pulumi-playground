@@ -1,0 +1,3 @@
+config:
+  aws:profile: chrisleekr-mfa
+  aws:region: ap-southeast-2
